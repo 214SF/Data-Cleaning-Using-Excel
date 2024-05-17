@@ -1,0 +1,20 @@
+Employee Name	Hire Date	 Salary 	Department	Job Title
+Jose Juarez	12/3/2008	"$39,000 "	Admin	Intern
+Johnny Abraham	3/30/2013	"$27,000 "	Engineering	Trainee
+Sarah Baker	4/30/2015	"$36,000 "	Sales	Sales Executive
+Billy Balotelli	11/15/2007	"$23,900 "	Engineering	Intern
+Tiana Bishop	6/6/2003	"$46,500 "	Engineering	Manager
+Terryy Boateng	7/27/2009	"$50,000 "	Accounts	Cost Accountant
+Fred Boer	12/23/2010	"$46,000 "	Mktg	Designer
+Betty Barker	7/25/2007	"$43,500 "	Sales	Sales Executive
+Tom Bursteyn 	10/11/2009	"$21,000 "	Sales	Sales Trainee
+Tammy Jones	10/12/2009	"$38,000 "	Sales	Sales Executive
+Bobby Busser	8/8/2014	"$40,000 "	Accounts	Senior Administrator
+Kathy Casciewicz	 12/15/2011	"$41,000 "	Sales	Senior Technician
+Ashley Cole	5/7/2016	"$54,000 "	Sales	Cost Accountant
+Charles Cookson	 04/03/2012	"$63,200 "	R & D	Vp
+Erin Crossley	4/23/2009	"$46,000 "	Admin	Team Leader
+Jane Doe	7/25/2015	"$21,500 "	R & D	Trainee
+John Doe	 06/05/2014	"$45,600 "	Engineering	Intern
+Danny Darnstein	 12/14/2011	"$52,000 "	Engineering	Cost Accountant
+Bill Fallengrano	 06/29/2001	"$56,750 "	Engineering	Senior Administrator
